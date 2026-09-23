@@ -1,3 +1,8 @@
+// Problem: Two Sum
+// Approach: Brute Force
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
+// Learning: Practiced nested loops and array traversal.
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
